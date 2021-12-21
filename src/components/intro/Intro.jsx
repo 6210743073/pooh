@@ -25,13 +25,14 @@ const Intro = () => {
             คติประจำใจของผมคือ ” Fail Fast, Fail Cheap, Fail Forward ”
           </p>
           <p className="i-desc">
-            <div >
-              <a 
-                class="button-17"
-                download=""
-                href="../../CV.pdf"
+            <div>
+              <a
+                className="button-17"
+                target="_blank"
+                rel="noreferrer"
+                href="https://drive.google.com/file/d/1GQK8cpnLc3akXb_IRfGZgDXEeaoj5SnC/view?usp=sharing"
               >
-                Download CV
+                View CV
               </a>
             </div>
           </p>
