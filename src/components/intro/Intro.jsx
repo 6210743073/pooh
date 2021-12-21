@@ -30,7 +30,7 @@ const Intro = () => {
                 className="button-17"
                 target="_blank"
                 rel="noreferrer"
-                href="https://drive.google.com/file/d/1GQK8cpnLc3akXb_IRfGZgDXEeaoj5SnC/view?usp=sharing"
+                href="https://drive.google.com/file/d/1uNoAHKfrxJpGblyzBc6LpLNJ_uXdrIy3/view?usp=sharing"
               >
                 View CV
               </a>
