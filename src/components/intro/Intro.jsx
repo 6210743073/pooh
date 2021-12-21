@@ -29,7 +29,7 @@ const Intro = () => {
               <a 
                 class="button-17"
                 download=""
-                href="assets/pdf/poohmipun CV.pdf"
+                href="../../CV.pdf"
               >
                 Download CV
               </a>
