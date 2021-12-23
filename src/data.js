@@ -7,7 +7,7 @@ export const products = [
   {
     id: 2,
     img: "https://res.cloudinary.com/jobfindder/image/upload/v1637296944/Job%20Findder/screencapture-job-findder-herokuapp-2021-11-19-11_12_20_jhdlmo.png",
-    link: "http://job-findder.herokuapp.com/",
+    link: "https://job-findder.herokuapp.com/",
   },
   {
     id: 3,
