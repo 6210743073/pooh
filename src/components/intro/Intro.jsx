@@ -22,7 +22,7 @@ const Intro = () => {
           <p className="i-desc">
             ผมต้องการจะเป็นนักพัฒนา Website ที่ดีทั้งในส่วน frontend developer,
             backend developer หรือ full stack developer<br></br>
-            คติประจำใจของผมคือ ” Fail Fast, Fail Cheap, Fail Forward ”
+            คติประจำใจของผมคือ <br></br>” Fail Fast, Fail Cheap, Fail Forward ”
           </p>
           <p className="i-desc">
             <div>
@@ -30,7 +30,7 @@ const Intro = () => {
                 className="button-17"
                 target="_blank"
                 rel="noreferrer"
-                href="https://drive.google.com/file/d/1uNoAHKfrxJpGblyzBc6LpLNJ_uXdrIy3/view?usp=sharing"
+                href="https://drive.google.com/file/d/10pzbnCobK-PDWxam_dCvIwpWFBtoUQjv/view?usp=sharing"
               >
                 View CV
               </a>
