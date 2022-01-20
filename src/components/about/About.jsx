@@ -26,8 +26,6 @@ const About = () => {
         />
         <p className="a-sub">
           มหาวิทยาลัยธรรมศาสตร์ สาขาวิศวกรรมซอฟต์แวร์ (ปริญญาตรี โครงการพิเศษ)
-          <br></br>
-          GPA:2.15
         </p>
         <h1 className="a-title">SKILLS & COMPETENCIES</h1>
         <div className="a-award">
