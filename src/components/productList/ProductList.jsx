@@ -3,7 +3,7 @@ import Product from "../product/Product";
 import { products } from "../../data";
 import RecommendIcon from "@mui/icons-material/Recommend";
 import SupervisedUserCircleIcon from "@mui/icons-material/SupervisedUserCircle";
-import SettingsApplicationsIcon from '@mui/icons-material/SettingsApplications';
+import SettingsApplicationsIcon from "@mui/icons-material/SettingsApplications";
 const ProductList = () => {
   return (
     <div className="pl">
@@ -25,8 +25,9 @@ const ProductList = () => {
           สัปดาห์ในการพัฒนา จากโปรเจคนี้ทำให้ผมได้พัฒนาทั้ง fonts end และ
           backend และทำให้ผมเริ่มชอบในการเป็น full stack developer
           <br></br>
-          <SettingsApplicationsIcon/>
+          <SettingsApplicationsIcon />
           กำลังพัฒนาเว็ปไซด์ร้านค้า
+          <br></br>
           <RecommendIcon />
           ประสบการณ์ในการออกแบบฐานข้อมูลโดยใช้ SQL และ PHP เขียนบน Laravel
           framework
