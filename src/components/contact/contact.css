@@ -38,7 +38,9 @@
   cursor: pointer;
   text-decoration: none;
 }
-
+a {
+  text-decoration: none;
+}
 .c-icon {
   width: 30px;
   height: 30px;
@@ -88,7 +90,7 @@ textarea {
   box-shadow: 0 0 20px #eee;
   border-radius: 10px;
   display: block;
-  justify-content:center; 
+  justify-content: center;
 }
 
 .btn-grad:hover {
@@ -138,7 +140,5 @@ textarea {
 
   .btn-grad {
     margin-top: 10px;
-    
   }
-
 }
